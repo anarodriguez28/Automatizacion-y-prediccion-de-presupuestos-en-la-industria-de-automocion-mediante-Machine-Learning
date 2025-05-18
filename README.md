@@ -25,7 +25,7 @@ requirements.txt: Fichero con los paquetes (y versiones) necesarios para ejecuta
 
 ## Requisitos
 
-Instalar las dependencias mediante:
+Instalar mediante:
 
 pip install -r requirements.txt
 

@@ -1,4 +1,4 @@
-# Automatización-y-predicción-de-presupuestos-en-la-industria-de-automoción-mediante-Machine-Learning
+# Automatización y predicción de presupuestos en la industria de automoción mediante Machine Learning
 Repositorio del Trabajo de Fin de Máster (TFM) centrado en el desarrollo de un sistema de presupuestación técnica de piezas plásticas por inyección, que combina la automatización de cálculos técnicos con modelos de predicción de precios basados en técnicas de Machine Learning.
 
 Autor: Ana Rodríguez Rubio

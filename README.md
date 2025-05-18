@@ -19,8 +19,9 @@ data
 - `tarifas_costes.xlsx`: Fichero con las tarifas de materiales, máquinas y parámetros generales.
 - `nuevas_piezas.csv`: Fichero con las características técnicas de nuevas piezas para realizar predicciones.
 
+otros
 
-requirements.txt: Fichero con los paquetes (y versiones) necesarios para ejecutar el código.
+-`requirements.txt`: Fichero con los paquetes (y versiones) necesarios para ejecutar el código.
 
 
 ## Requisitos

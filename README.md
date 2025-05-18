@@ -21,7 +21,7 @@ data
 
 otros
 
--`requirements.txt`: Fichero con los paquetes (y versiones) necesarios para ejecutar el código.
+- `requirements.txt`: Fichero con los paquetes (y versiones) necesarios para ejecutar el código.
 
 
 ## Requisitos
